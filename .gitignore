@@ -21,3 +21,14 @@
 *.ear
 *.war
 
+# ---- Build ---- #
+build/
+.gradle
+build.sh
+target/
+out/
+
+# ---- Other ---- #
+*.log
+
+
